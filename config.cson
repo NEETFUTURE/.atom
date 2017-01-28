@@ -1,0 +1,50 @@
+"*":
+  "asciidoc-preview": {}
+  "atom-material-ui":
+    treeView:
+      compactList: true
+  "autocomplete-java": {}
+  "autocomplete-python":
+    showTooltips: true
+    useKite: false
+  core:
+    disabledPackages: [
+      "linter-sass-lint"
+    ]
+    excludeVcsIgnoredPaths: false
+    packagesWithKeymapsDisabled: [
+      "script"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "monokai"
+    ]
+  editor:
+    fontFamily: "Default"
+    fontSize: 11
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "f6f03785-313f-315a-b6d5-67776811424a"
+  "git-plus":
+    general:
+      _analyticsUserId: "5848bf70-30c7-4bd3-b18b-98a17cc05e69"
+  "linter-sass-lint":
+    configFile: "~/.atom/packages/linter-sass-lint/lib/config/sass-lint.yml"
+  "markdown-pdf": {}
+  "platformio-ide-terminal":
+    core: {}
+    style:
+      theme: "solarized-dark"
+    toggles:
+      autoClose: true
+      cursorBlink: false
+  script:
+    scrollWithOutput: false
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
